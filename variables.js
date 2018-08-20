@@ -44,6 +44,10 @@ Professor Plum
 //
 // const secondVerdict = `The murderer is ${murderer}.`;
 // console.log('Second Verdict: ', secondVerdict);
+
+First Verdict: Mrs. Peacock
+Second Verdict: Professor Plum
+
 // Episode 4
 // let suspectOne = 'Miss Scarlet';
 // let suspectTwo = 'Professor Plum';
