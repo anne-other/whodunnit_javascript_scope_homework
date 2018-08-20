@@ -61,6 +61,10 @@ Second Verdict: Professor Plum
 // const suspects = declareAllSuspects();
 // console.log(suspects);
 // console.log(`Suspect three is ${suspectThree}.`);
+
+The suspect are Miss Scarlet, Professor Plum, Colonel Mustard
+Suspect three is Mrs Peacock
+
 // Episode 5
 // const scenario = {
 //   murderer: 'Miss Scarlet',
