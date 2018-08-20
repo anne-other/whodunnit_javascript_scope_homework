@@ -83,6 +83,9 @@ Suspect three is Mrs Peacock
 // changeWeapon('Revolver');
 // const verdict = declareWeapon();
 // console.log(verdict);
+
+The weapon is the Revolver
+
 // Episode 6
 // let murderer = 'Colonel Mustard';
 //
