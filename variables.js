@@ -189,3 +189,5 @@ The weapon is candle stick
 //
 // const verdict = declareMurderer();
 // console.log(verdict);
+
+The murderer is Professor Plum
