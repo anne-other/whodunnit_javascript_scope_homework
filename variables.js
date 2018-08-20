@@ -106,6 +106,9 @@ The weapon is the Revolver
 // changeMurderer();
 // const verdict = declareMurderer();
 // console.log(verdict);
+
+The murderer is Mr Green
+
 // Episode 7
 // let murderer = 'Professor Plum';
 //
