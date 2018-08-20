@@ -28,6 +28,9 @@ Miss Scarlet
 // changeMurderer();
 // const verdict = declareMurderer();
 // console.log(verdict);
+
+Professor Plum
+
 // Episode 3
 // let murderer = 'Professor Plum';
 //
